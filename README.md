@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay Pakalapati</h1>
+<h1 align="center">Hi , I'm Akshay Pakalapati</h1>
 
 <h3 align="center">
 Computer Science Engineering Student | UI/UX Enthusiast | Aspiring Software Developer
@@ -18,13 +18,13 @@ Computer Science Engineering Student | UI/UX Enthusiast | Aspiring Software Deve
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- 🐍 Python
-- 🌐 HTML & CSS
-- 🎨 UI/UX Design (Figma)
-- 📂 Git & GitHub
-- ⚡ JavaScript
+-  Python
+- HTML & CSS
+- UI/UX Design (Figma)
+- Git & GitHub
+- JavaScript
 
 ---
 
@@ -43,12 +43,12 @@ Computer Science Engineering Student | UI/UX Enthusiast | Aspiring Software Deve
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
-- 🌐 Personal Portfolio Website
-- 🎨 UI/UX Design Projects
-- 🐍 Python Mini Projects
-- 📚 Learning Git & GitHub
+- Personal Portfolio Website
+- UI/UX Design Projects
+- Python Mini Projects
+- Learning Git & GitHub
 
 ---
 
@@ -62,13 +62,13 @@ Computer Science Engineering Student | UI/UX Enthusiast | Aspiring Software Deve
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 > GitHub statistics and contribution cards will be added as I continue building projects.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/akshay-pakalapati-449800367/*
 - 📧 Email: *pakalapatiakshay44@gmail.com*
