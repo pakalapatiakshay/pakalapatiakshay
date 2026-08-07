@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Akshay Pakalapati</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | UI/UX Enthusiast | Aspiring Software Developer
+Computer Science Engineering Student | UI/UX designer
 </h3>
 
 ---
@@ -12,7 +12,7 @@ Computer Science Engineering Student | UI/UX Enthusiast | Aspiring Software Deve
 
 💡 I enjoy designing intuitive user experiences and building practical software projects while continuously learning new technologies.
 
-🚀 I'm currently focused on improving my skills in UI/UX Design, Web Development, and Python.
+🚀 I'm currently focused on improving my skills in UI/UX Design, Web Development, and Python developer .
 
 🎯 **Current Goal:** Secure my first UI/UX or Software Development Internship.
 
@@ -47,7 +47,7 @@ Computer Science Engineering Student | UI/UX Enthusiast | Aspiring Software Deve
 
 - Personal Portfolio Website
 - UI/UX Design Projects
-- Python Mini Projects
+- Python Mini Projects(IchiHub)
 - Learning Git & GitHub
 
 ---
