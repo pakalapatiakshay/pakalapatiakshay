@@ -3,11 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=922&text=Hi%20%2C%20I'm%20Akshay%20Pakalapati" alt="Hi , I&#39;m Akshay Pakalapati" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Computer%20Science%20Engineering%20Student%20%7C%20UI%2FUX%20designer%7C%20Python%20Developer" alt="Typing headlines" />
-</p>
-
 ### 🚀 About Me
 
 I'm a Computer Science Engineering Student at **SRM Institute of Science and Technology (SRMIST)**.
