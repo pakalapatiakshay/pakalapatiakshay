@@ -3,7 +3,8 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=922&text=Hi%20%2C%20I'm%20Akshay%20Pakalapati" alt="Hi , I&#39;m Akshay Pakalapati" />
   </a>
 </p>
-### 🚀 About Me
+
+🚀 About Me
 
 I'm a Computer Science Engineering Student at **SRM Institute of Science and Technology (SRMIST)**.
 
